@@ -9,18 +9,24 @@ Feature Transformation is a technique by which we can boost our model performanc
 ALGORITHM:
 
 STEP 1:
+
 Read the given Data
 
 STEP 2:
+
 Clean the Data Set using Data Cleaning Process
 
 STEP 3:
+
 Apply Feature Transformation techniques to all the features of the data set
 
 STEP 4:
+
 Print the transformed features.
 
+
 PROGRAM:
+
 
 import numpy as np
 
@@ -114,7 +120,9 @@ sm.qqplot(df5['Moderate Negative Skew_2'],line='45')
 
 plt.show()
 
+
 OUTPUT:
+
 
 <img width="613" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/36f3bb1a-e0eb-403c-8dc8-a1d25817f3b7">
 
