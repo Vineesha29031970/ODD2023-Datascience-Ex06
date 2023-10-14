@@ -27,8 +27,7 @@ Print the transformed features.
 
 # PROGRAM:
 
-''
-import numpy as np
+'''import numpy as np
 
 import pandas as pd
 
@@ -119,8 +118,8 @@ df5['Moderate Negative Skew_2'] = pd.DataFrame(qt.fit_transform(df5[['Moderate N
 sm.qqplot(df5['Moderate Negative Skew_2'],line='45')
 
 plt.show()
+'''
 
-''
 # OUTPUT:
 
 
