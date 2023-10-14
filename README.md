@@ -160,7 +160,7 @@ OUTPUT:
 <img width="526" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/b2c31c80-b4ed-4ff6-823a-fe08f1e67567">
 
 
-<img width="530" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/4e43ade2-3720-4161-9511-d561ab24220c">
+<img width="527" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/49449ad1-3409-443d-bc00-b65909c51fb1">
 
 
 <img width="528" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/c0760461-ddf6-4f36-aa3b-34a780388046">
