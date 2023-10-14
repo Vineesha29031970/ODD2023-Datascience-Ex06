@@ -27,7 +27,6 @@ Print the transformed features.
 
 PROGRAM:
 
-
 import numpy as np
 
 import pandas as pd
@@ -127,13 +126,13 @@ OUTPUT:
 <img width="613" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/36f3bb1a-e0eb-403c-8dc8-a1d25817f3b7">
 
 
-<img width="425" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/e3748e7b-edf2-4fc9-a708-27b887b5a826">
+<img width="160" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/9f6aa633-07fb-4ebb-b160-01f8727a7d1d">
 
 
-<img width="871" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/d29f25b5-6c06-4bd4-8af9-636ca9d9c2fd">
+<img width="310" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/f948b496-e791-40d2-813f-c46b36d74c04">
 
 
-<img width="572" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/5030103f-c6ae-40f9-a0ea-c4349ae9b392">
+<img width="320" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/523f2f68-5f8e-4917-ab6b-75354eaf8def">
 
 
 <img width="436" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/5f43b6cc-6dee-46d6-8381-fbb3702e7798">
