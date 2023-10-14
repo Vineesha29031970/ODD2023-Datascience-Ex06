@@ -141,12 +141,12 @@ OUTPUT:
 
 <img width="424" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/947cc7c2-e4bb-4466-a28e-5ab36a8e487f">
 
+<img width="526" alt="Screenshot 2023-10-14 190334i0oo" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/11ac4394-ab79-4376-92e6-74fa9a9a6988">
 
 <img width="526" alt="Screenshot 2023-10-14 190334i0oo" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/11ac4394-ab79-4376-92e6-74fa9a9a6988">
 
 <img width="526" alt="kqwdawax'a" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/5ca1a3e0-aaf8-4a4d-b996-64fc9f91286a">
 
-<img width="526" alt="Screenshot 2023-10-14 190334i0oo" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/11ac4394-ab79-4376-92e6-74fa9a9a6988">
 
 
 <img width="532" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/2944ae94-efaf-411f-961f-ef6d2f2c2336">
