@@ -138,34 +138,3 @@ OUTPUT:
 
 <img width="436" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/5f43b6cc-6dee-46d6-8381-fbb3702e7798">
 
-<img width="532" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/2944ae94-efaf-411f-961f-ef6d2f2c2336">
-
-<img width="424" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/947cc7c2-e4bb-4466-a28e-5ab36a8e487f">
-
-
-<img width="526" alt="Screenshot 2023-10-14 190334i0oo" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/11ac4394-ab79-4376-92e6-74fa9a9a6988">
-
-<img width="526" alt="Screenshot 2023-10-14 190334i0oo" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/11ac4394-ab79-4376-92e6-74fa9a9a6988">
-
-<img width="526" alt="kqwdawax'a" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/5ca1a3e0-aaf8-4a4d-b996-64fc9f91286a">
-
-
-
-<img width="532" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/2944ae94-efaf-411f-961f-ef6d2f2c2336">
-
-
-<img width="527" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/4a549577-6594-4193-b276-5a9376334229">
-
-
-<img width="528" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/bf6ae1ef-1bc4-44ff-8ba8-3bb2d493d86a">
-
-
-<img width="527" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/1e3d8b99-512d-4937-9df5-41a2766d73b7">
-
-
-<img width="527" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/bd7ea83d-f37e-4e50-b287-3a3817e3c1b2">
-
-
-RESULT:
-
-Thus feature transformation is done for the given dataset.
