@@ -138,8 +138,10 @@ OUTPUT:
 
 <img width="436" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/5f43b6cc-6dee-46d6-8381-fbb3702e7798">
 
+<img width="532" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/2944ae94-efaf-411f-961f-ef6d2f2c2336">
 
 <img width="424" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/947cc7c2-e4bb-4466-a28e-5ab36a8e487f">
+
 
 <img width="526" alt="Screenshot 2023-10-14 190334i0oo" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/11ac4394-ab79-4376-92e6-74fa9a9a6988">
 
