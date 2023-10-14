@@ -26,6 +26,7 @@ Print the transformed features.
 
 
 # PROGRAM:
+'''
 
 import numpy as np
 
@@ -119,7 +120,7 @@ sm.qqplot(df5['Moderate Negative Skew_2'],line='45')
 
 plt.show()
 
-
+'''
 # OUTPUT:
 
 
