@@ -125,6 +125,10 @@ OUTPUT:
 
 <img width="613" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/36f3bb1a-e0eb-403c-8dc8-a1d25817f3b7">
 
+
+<img width="400" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/bdfde753-b056-4e52-bfdd-2b3d53d339e9">
+
+
 <img width="400" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/f948b496-e791-40d2-813f-c46b36d74c04">
 
 
