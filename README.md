@@ -138,7 +138,6 @@ OUTPUT:
 <img width="320" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/523f2f68-5f8e-4917-ab6b-75354eaf8def">
 
 
-
 <img width="436" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/5f43b6cc-6dee-46d6-8381-fbb3702e7798">
 
 
