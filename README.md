@@ -124,7 +124,16 @@ plt.show()
 ```
 
 # OUTPUT:
+
 <img width="613" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/36f3bb1a-e0eb-403c-8dc8-a1d25817f3b7">
+
+
+<img width="400" alt="Screenshot 2023-10-14 204103" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/d8a7e045-de37-4314-b67c-088900414804">
+
+
+<img width="415" alt="Screenshot 2023-10-14 204103" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/f464ef55-a5a9-42af-9d71-f621573a1c8b">
+
+
 
 
 # RESULT:
