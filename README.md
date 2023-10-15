@@ -32,13 +32,9 @@ Print the transformed features.
 ```
 
 import numpy as np
-
 import pandas as pd
-
 import matplotlib.pyplot as plt
-
 import statsmodels.api as sm
-
 import scipy.stats as stats
 
 from sklearn.preprocessing import PowerTransformer 
