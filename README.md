@@ -134,7 +134,7 @@ plt.show()
 
 
 
-<img width="420" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/f948b496-e791-40d2-813f-c46b36d74c04">
+<img width="445" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/f948b496-e791-40d2-813f-c46b36d74c04">
 
 
 
