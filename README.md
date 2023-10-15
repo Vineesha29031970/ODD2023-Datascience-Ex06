@@ -132,7 +132,7 @@ plt.show()
 
 
 
-<img width="800" alt="Screenshot 2023-10-14 204103" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/48a777bf-c180-45c7-aade-a4af513cb513">
+<img width="600" alt="Screenshot 2023-10-14 204103" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/48a777bf-c180-45c7-aade-a4af513cb513">
 
 # RESULT:
 
