@@ -131,7 +131,7 @@ plt.show()
 <img width="495" alt="Screenshot 2023-10-14 204023" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/0aa78a1d-e050-40a5-a9a9-6b777ebb4706">
 
 
-<img width="440" alt="Screenshot 2023-10-14 204103" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/d8a7e045-de37-4314-b67c-088900414804">
+<img width="800" alt="Screenshot 2023-10-14 204103" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/d8a7e045-de37-4314-b67c-088900414804">
 
 # RESULT:
 
