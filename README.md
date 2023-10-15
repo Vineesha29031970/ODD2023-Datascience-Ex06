@@ -133,12 +133,11 @@ plt.show()
 <img width="400" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/bdfde753-b056-4e52-bfdd-2b3d53d339e9">
 
 
-
 <img width="400" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/f948b496-e791-40d2-813f-c46b36d74c04">
 
 
 
-<img width="415" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/523f2f68-5f8e-4917-ab6b-75354eaf8def">
+<img width="400" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/523f2f68-5f8e-4917-ab6b-75354eaf8def">
 
 
 
