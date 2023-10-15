@@ -125,7 +125,6 @@ plt.show()
 
 # OUTPUT:
 
-
 <img width="613" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/36f3bb1a-e0eb-403c-8dc8-a1d25817f3b7">
 
 
@@ -133,11 +132,12 @@ plt.show()
 <img width="400" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/bdfde753-b056-4e52-bfdd-2b3d53d339e9">
 
 
+
 <img width="400" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/f948b496-e791-40d2-813f-c46b36d74c04">
 
 
 
-<img width="400" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/523f2f68-5f8e-4917-ab6b-75354eaf8def">
+<img width="415" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/523f2f68-5f8e-4917-ab6b-75354eaf8def">
 
 
 
@@ -149,11 +149,11 @@ plt.show()
 
 
 
-<img width="526" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/3a97d124-10c2-4293-84fb-812ea033267c">
+<img width="500" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/3a97d124-10c2-4293-84fb-812ea033267c">
 
 
 
-<img width="528" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/b896602e-b09f-4708-b325-a3e8c6d34682">
+<img width="500" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/b896602e-b09f-4708-b325-a3e8c6d34682">
 
 
 
