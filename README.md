@@ -141,6 +141,41 @@ plt.show()
 
 
 
+<img width="871" alt="Screenshot 2023-10-14 185503" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/1eb05e87-a997-49c9-93d6-4a4151d6f3e8">
+
+
+<img width="506" alt="Screenshot 2023-10-14 185826klklm" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/843609ab-6c86-405b-a62b-f9990f6b268f">
+
+
+<img width="528" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/c3953e60-cbb0-4f07-a0a7-9a452ee0e89f">
+
+
+<img width="527" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/e9b5d5bb-1f21-4d99-92ad-1c40bffe65e8">
+
+
+<img width="528" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/deca5470-02c6-40e7-ab47-ed5375e0c2bc">
+
+
+<img width="528" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/3735b6af-3b06-4fac-9411-06d58f2ffe35">
+
+
+<img width="530" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/96354cfd-37b0-4252-ab7e-a73df3d3e8f1">
+
+
+<img width="528" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/6aa9bbbb-ed07-4852-876c-281134770c98">
+
+
+<img width="528" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/39d8a3e8-d4f6-40cd-84ff-afa6ffe6a982">
+
+
+<img width="525" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/6d9d9984-b1b8-415a-9adf-fc1ae9e80a12">
+
+
+<img width="527" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/33f0d518-cd9c-430b-94a0-216eaf3e7c01">
+
+
+<img width="530" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/06daaf43-f38e-4292-8040-a2897b973a50">
+
 
 # RESULT:
 
