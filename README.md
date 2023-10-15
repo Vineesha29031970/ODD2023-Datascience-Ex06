@@ -125,10 +125,10 @@ plt.show()
 
 # OUTPUT:
 
-<img width="613" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/36f3bb1a-e0eb-403c-8dc8-a1d25817f3b7">
+<img width="610" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/36f3bb1a-e0eb-403c-8dc8-a1d25817f3b7">
 
 
-<img width="410" alt="Screenshot 2023-10-14 204023" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/0aa78a1d-e050-40a5-a9a9-6b777ebb4706">
+<img width="495" alt="Screenshot 2023-10-14 204023" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/0aa78a1d-e050-40a5-a9a9-6b777ebb4706">
 
 
 <img width="440" alt="Screenshot 2023-10-14 204103" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/d8a7e045-de37-4314-b67c-088900414804">
