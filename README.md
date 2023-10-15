@@ -95,10 +95,6 @@ plt.show()
 <img width="613" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/36f3bb1a-e0eb-403c-8dc8-a1d25817f3b7">
 
 
-
-<img width="400" alt="Screenshot 2023-10-14 204023" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/0aa78a1d-e050-40a5-a9a9-6b777ebb4706">
-
-
 <img width="871" alt="Screenshot 2023-10-14 185503" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex06/assets/133136880/1eb05e87-a997-49c9-93d6-4a4151d6f3e8">
 
 
